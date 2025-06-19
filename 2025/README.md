@@ -12,7 +12,7 @@
 #### 3. 산업체요구형 캡스톤디자인
 기간 : 2025년 3월 10일 ~ 6월 16일 \
 활동 내용 : 드론을 이용하여 대전대학교 캠퍼스 소개 영상 제작
-(캡스톤 디자인 작품 보고서)[https://github.com/shinAh23/DJU/blob/main/2025/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%9E%91%ED%92%88%20%EB%B3%B4%EA%B3%A0%EC%84%9C%203%EC%A1%B0%20(C.E)%ED%8C%80.pptx]
+[캡스톤 디자인 작품 보고서](https://github.com/shinAh23/DJU/blob/main/2025/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%9E%91%ED%92%88%20%EB%B3%B4%EA%B3%A0%EC%84%9C%203%EC%A1%B0%20(C.E)%ED%8C%80.pptx)
 
 #### 4. 창업 동아리 [DiFoni]
 기간 : 2025년 6월 08일 ~ \
