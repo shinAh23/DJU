@@ -2,7 +2,7 @@
 기간 : 2025년 3월 06일 ~ 9월 30일\
 활동 내용 : 
 1. 1단계 보안 교육 수료\
-   [WHS_1단계 과제 수행]([https://github.com/shinAh23/DJU/tree/main/2025/WHS](https://github.com/shinAh23/WHS_3rd/tree/main/1%EB%8B%A8%EA%B3%84))
+   [WHS_1단계 과제 수행](https://github.com/shinAh23/WHS_3rd/tree/main/1%EB%8B%A8%EA%B3%84)
 2. 프로젝트 [윈도우 악성 프로그램 탐지 및 분석 연구] 진행
 3. 하계 논문 투고 (예정)
 
