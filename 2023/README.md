@@ -16,6 +16,6 @@
 수상 : 우수상\
 [진로직무탐색지](https://github.com/shinAh23/DJU/blob/main/2023/%5B20231773%5D%20%EB%82%98%EB%A7%8C%EC%9D%98%EC%A7%84%EB%A1%9C%EC%A7%81%EB%AC%B4%ED%83%90%EC%83%89%EC%A7%80_%EA%B9%80%EC%8B%A0%EC%95%84(%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC).hwp) / [수료증](https://github.com/shinAh23/DJU/blob/main/2023/%EC%A7%84%EB%A1%9C%EC%A7%81%EB%AC%B4%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8.pdf)
 
-#### 5. 제 1회 화이트해커 경진 대회
+#### 5. 제 1회 대전대학교 화이트해커 경진대회
 기간 : 2023년 12월 7일 ~ 12월 8일\
 수상 내역 : 우수상
